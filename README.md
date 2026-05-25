@@ -17,4 +17,4 @@ Trip Mate is a UI/UX-based smart travel planning application prototype designed 
 - User Flow Design
 
 ## Prototype Link
-(Add your Figma prototype link here)
+https://www.figma.com/make/1btmN2RyATZS74t2lqXsnH/High-Fidelity-Prototype-Development?t=9uMbn9dgmFIiA20o-20&fullscreen=1&preview-route=%2Fhome
