@@ -10,7 +10,6 @@ Trip Mate is a UI/UX-based smart travel planning application prototype designed 
 
 ## Tools Used
 - Figma
-- Canva
 
 ## My Contribution
 - UI/UX Design
